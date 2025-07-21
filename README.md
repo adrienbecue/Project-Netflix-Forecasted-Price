@@ -47,6 +47,7 @@ alone.
 
 Historical Correlation Between Content and
 Stock Price
+
 This content-driven growth not only bolsters
 Netflix’s revenue but also positively influences
 investor sentiment, as seen in the 11.7% surge in its
@@ -59,5 +60,62 @@ positive market response is anticipated, further
 solidifying content’s central role in Netflix’s stock
 evolution.
 
+Strategic Expansions: Live Sports and New
+Market Penetration
+
+Entry into the Live Sports Market
+
+Netflix’s push into live sports streaming, including
+the Jake Paul vs. Mike Tyson fight, marks a strategic
+shift.
+
+Sports Partnerships and Subscriber Growth
+
+Netflix’s ongoing negotiations with the NFL and its
+expanded Formula 1 coverage aim to capture the
+lucrative sports market, potentially drawing millions
+of new subscribers. If executed successfully, these
+initiatives could bring up 40 million additional
+subscribers by 2027, reinforcing Netflix’s long-term
+growth trajectory.
+
+Expansion into the Gaming Industry
+Additionally, Netflix’s entry into the gaming market,
+with projections to generate over $1 billion in
+additional revenue by 2026, represents another
+strategic pivot towards capturing a wider
+entertainment spectrum.
+
+Macroeconomic Factors Driving Netflix’s
+Growth
+
+Favorable U.S. Economic Environment
+The U.S. economy exhibited resilience, with a 3.1%
+GDP growth rate in the third quarter of 2024,
+followed by 2.3% in the fourth quarter. This steady
+economic expansion fosters a positive environment
+for discretionary spending, including entertainment
+services like Netflix.
+
+Corporate Tax Policies Enhancing Profitability
+
+Corporate tax policies further support Netflix’s
+growth. The reduction of the corporate tax rate from
+35% to 21% under the Trump administration remains
+a major advantage for Netflix and other U.S.
+corporations, significantly boosting after-tax
+profitability. While discussions around a 15% global
+minimum corporate tax rate continue in the U.S.
+
+Consumer Spending Trends Supporting Subscription-Based Models
+
+A 4.5% increase in household disposable income in
+2024 has strengthened consumer spending capacity,
+which directly benefits subscription-based services
+like Netflix. Unlike traditional advertising-driven
+media, Netflix’s subscription model offers stable
+revenue streams that are less impacted by short-term
+economic fluctuations, making it an attractive
+investment during economic uncertainty
 
 
