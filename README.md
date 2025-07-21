@@ -1,1 +1,1 @@
-# Project-Netflix-Forecasted-Price
+# Project-Netflix-Prediction-Price
